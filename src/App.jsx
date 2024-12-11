@@ -18,7 +18,7 @@ import JobList from './pages/JobList';
 import JobDetails from './pages/JobDetails';
 import Signup from './pages/Signup';
 import Login from './pages/Login';
-import AdminPanel from './pages/Adminpanel';
+import AdminPanel from './pages/AdminPanel';
 import AdminLogin from './pages/AdminLogin';
 import ResumeTemplates from './pages/ResumeTemplates';
 import ResumeForm from './components/ResumeForm'; // Import the Resume Form Page
